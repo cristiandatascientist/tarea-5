@@ -1,2 +1,3 @@
-# Terea 5
-Nombre: Cristian Vásquez
+## Terea 5
+### Nombre: Cristian Vásquez
+### Objetivo:
