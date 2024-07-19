@@ -1,2 +1,2 @@
 # Terea 5
-Prueba CV
+Nombre: Cristian Vásquez
